@@ -24,7 +24,7 @@
       "id": 7,
       "title": "Make dinner",
       "completed": false,
-    },
+    }
   ],
   "profile": {
     "name": "TodoMaster"
